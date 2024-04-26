@@ -4,7 +4,6 @@
 
 **Deep Learning Engineer at Pragma-IoT**
 
-<table>
   <tr>
     <td><img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn" style="width:24px; height:24px;"></td>
     <td><a href="https://www.linkedin.com/in/vasileios-nastos-028985209" target="_blank">LinkedIn</a></td>
@@ -17,7 +16,6 @@
     <td><img src="" alt="Phone" style="width:24px; height:24px;"></td>
     <td><a href="tel:+6951765203">Phone</a>6951765203</td>
   </tr>
-</table>
 
 
 **:copyright: Igoumenitsa,2024**
