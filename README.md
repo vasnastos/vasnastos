@@ -1,7 +1,7 @@
 # Nastos Vasileios
 
   <p>
-    <img src="https://cdn0.iconfinder.com/data/icons/education-color-filled/5000/Education_icon_set_color-15-512.png" alt="LinkedIn" style="width:22px; height:20px;">
+    <img src="https://cdn0.iconfinder.com/data/icons/education-color-filled/5000/Education_icon_set_color-15-512.png" alt="LinkedIn" style="width:30px; height:28px;">
     Department of Informatics and Telecommunications(Uoi)
     <br><br>
    <img src="https://cdn-icons-png.flaticon.com/512/3850/3850285.png" alt="LinkedIn" style="width:24px; height:24px;">
