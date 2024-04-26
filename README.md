@@ -1,8 +1,9 @@
 # Nastos Vasileios
 
-**Department of Informatics and Telecommunications(Uoi)**
-
   <p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Education%2C_Studying%2C_University%2C_Alumni_-_icon.png" alt="LinkedIn" style="width:22px; height:20px;">
+    Department of Informatics and Telecommunications(Uoi)
+    <br><br>
    <img src="https://cdn-icons-png.flaticon.com/512/3850/3850285.png" alt="LinkedIn" style="width:24px; height:24px;">
    Deep Learning Engineer at Pragma-IoT
   <br><br>
