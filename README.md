@@ -4,22 +4,22 @@
 
 **Deep Learning Engineer at Pragma-IoT**
 
-<p>
-<a href="www.linkedin.com/in/vasileios-nastos-028985209" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> www.linkedin.com/in/vasileios-nastos-028985209
-  </a>
-<br>
 
-<a href="mailto:nastosvasileios99@gmail.com" rel="nofollow noreferrer">
-    <i class="fas fa-envelope"></i> nastosvasileios99@gmail.com
- </a>
-<br>
-
-</p>
 
 [![LinkedIn][1]][2]
 [![Email][3]][4]
 [![Phone][5]][6]
+
+[![LinkedIn][1]][2]
+[![Email][3]][4]
+[![Phone][5]][6]
+
+[1]: /path/to/linkedin_icon.png "Visit my LinkedIn"
+[2]: https://www.linkedin.com/in/vasileios-nastos-028985209
+[3]: /path/to/email_icon.png "Email Me"
+[4]: mailto:nastosvasileios99@gmail.com
+[5]: /path/to/phone_icon.png "Call Me"
+[6]: tel:+6951765203
 
 **:copyright: Igoumenitsa,2024**
 
