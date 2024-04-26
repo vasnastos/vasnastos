@@ -1,6 +1,8 @@
 # Nastos Vasileios
 
 **Department of Informatics and Telecommunications(Uoi)**
-**:copyright: Arta,2023**
+**Deep Learning Engineer at Pragma-IoT**
+**:linkedln:**
+**:copyright: Igoumenitsa,2024**
 
 ---
