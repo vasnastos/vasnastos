@@ -8,7 +8,7 @@
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn" style="width:24px; height:24px;">
     <a href="https://www.linkedin.com/in/vasileios-nastos-028985209" target="_blank">https://www.linkedin.com/in/vasileios-nastos-028985209</a>
   </br>
-  <img src="" alt="Email" style="width:24px; height:24px;">
+  <img src="https://p7.hiclipart.com/preview/426/710/523/email-logo-computer-icons-clip-art-gmail.jpg" alt="Email" style="width:24px; height:24px;">
   <a href="mailto:nastosvasileios99@gmail.com">nastosvasileios99@gmail.com</a>
   <br>
   <img src="" alt="Phone" style="width:24px; height:24px;">
