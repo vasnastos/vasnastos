@@ -11,7 +11,7 @@
   <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Email" style="width:22px; height:20px;">
   <a href="mailto:nastosvasileios99@gmail.com">nastosvasileios99@gmail.com</a>
   <br>
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/007/873/341/small/phone-icon-illustration-designs-that-are-suitable-for-websites-apps-and-more-free-vector.jpg" alt="Phone" style="width:24px; height:24px;">
+  <img src="https://www.iconpacks.net/icons/1/free-smartphone-icon-695-thumb.png" alt="Phone" style="width:24px; height:24px;">
     <a href="tel:+6951765203">6951765203</a>
   <br>
   </p>
