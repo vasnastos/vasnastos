@@ -14,7 +14,7 @@
 [![Email][3]][4]
 [![Phone][5]][6]
 
-[1]: /path/to/linkedin_icon.png "Visit my LinkedIn"
+[1]: https://cdn-icons-png.flaticon.com/128/3536/3536505.png "Visit my LinkedIn"
 [2]: https://www.linkedin.com/in/vasileios-nastos-028985209
 [3]: /path/to/email_icon.png "Email Me"
 [4]: mailto:nastosvasileios99@gmail.com
