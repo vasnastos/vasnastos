@@ -1,7 +1,7 @@
 # Nastos Vasileios
 
   <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Education%2C_Studying%2C_University%2C_Alumni_-_icon.png" alt="LinkedIn" style="width:22px; height:20px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHzIKYYaaWTIxEWIQwmpCAHT3XCmHVrxJyKH55Ci96mTzNQ8v-fmInxruOzmlI4EXVZI&usqp=CAU" alt="LinkedIn" style="width:22px; height:20px;">
     Department of Informatics and Telecommunications(Uoi)
     <br><br>
    <img src="https://cdn-icons-png.flaticon.com/512/3850/3850285.png" alt="LinkedIn" style="width:24px; height:24px;">
