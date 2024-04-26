@@ -12,7 +12,7 @@
   <a href="mailto:nastosvasileios99@gmail.com">nastosvasileios99@gmail.com</a>
   <br>
   <img src="" alt="Phone" style="width:24px; height:24px;">
-    <a href="tel:+6951765203">6951765203</a>6951765203
+    <a href="tel:+6951765203">6951765203</a>
   <br>
   </p>
 
